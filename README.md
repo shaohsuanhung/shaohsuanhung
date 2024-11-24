@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there, I am Shao-Hsuan Hung 👋
+- I am interested in computer vision/ signal processing / machine learning related tech.
+- For more information, please visit my [personal website](https://shaohsuanhung.github.io/)!
 <!--
 **shaohsuanhung/shaohsuanhung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
