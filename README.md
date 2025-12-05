@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI developer</h3>
 
 - 🔭 I’m currently working on **computer vision/ signal processing / machine learning related tech.**
-- 📫 For more information, please visit my [personal website](https://shaohsuanhung.github.io/)!
+- 📫 For more information, please visit my [website](https://shaohsuanhung.github.io/)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
