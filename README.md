@@ -1,5 +1,5 @@
 <h1 align="center">Greeting 👋, I'm Shao-Hsuan Hung</h1>
-<h3 align="center">A passionate AI developer</h3>
+<h3 align="center">A passionate AI developer & Researcher</h3>
 
 - 🔭 I’m currently working on **computer vision/ signal processing / machine learning related tech.**
 - 📫 For more information, please visit my [website](https://shaohsuanhung.github.io/)!
